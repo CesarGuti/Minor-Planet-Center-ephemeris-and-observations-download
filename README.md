@@ -29,4 +29,4 @@ Mpc_down can be used in two different ways:
       - Spyder
       - PyDev
   - Use the executable: This is the simplest option. It simply involves clicking on the mpc_down_v5_1.exe file, and it will start running without the need for any installation. However, the executable file couldn't be
-    uploaded to GitHub due to its large size. One can create an executable using the PyInstaller library with the following command: _>> pyinstaller --onefile mpc_down_v5_1.py_
+    uploaded to GitHub due to its large size. Download it from the following link: https://drive.google.com/file/d/1jVg6GiVUpIIXoWybNfzpRWIRZp18Qhzb/view?usp=drive_link .One can create an executable using the PyInstaller library with the following command: _>> pyinstaller --onefile mpc_down_v5_1.py_
